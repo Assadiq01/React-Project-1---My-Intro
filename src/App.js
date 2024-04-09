@@ -19,10 +19,10 @@ function MainContent () {
     <div className='main-content'>
       <h1>This is my First React App</h1>
       <ul>
-        <li>My Name is Abubakar Ashiru Yunusa</li>
-        <li>I'm Learning React from scratch</li>
-        <li>i want to Transform my Career from Backend Developer to Fullstack Developer</li>
-        <li>I started this Project journey (React) on 1st April 2024</li>
+        <li>My Name is Abubakar Ashiru Yunusa.</li>
+        <li>I'm Learning React from scratch.</li>
+        <li>i want to Transform my Career from Backend Developer to Fullstack Developer.</li>
+        <li>I started this Development journey (React) on 1st April 2024.</li>
       </ul>
     </div>
   )
